@@ -20,4 +20,7 @@ https://github.com/progit/progit2
 
 https://github.com/progit/progit/tree/master/de
 
-https://archive.org/details/progit.de
+https://archive.org/details/progit.de 
+
+wget
+https://github.com/twbs/bootstrap/releases/download/v3.2.0/bootstrap-3.2.0-dist.zip
