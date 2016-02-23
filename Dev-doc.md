@@ -36,4 +36,11 @@ https://github.com/robisys/develop/archive/master.zip
 * Kommandozeile:
 
  git clone git://github.com/robisys/develop.git
+ 
+ https://de.wikibooks.org/wiki/Vi-Befehlsreferenz:_Bearbeitung
+ 
+  http://www.fehcom.de/pub/viref.pdf 
+ 
+  vi Editor http://www.inf.fu-berlin.de/lehre/WS98/brueckenkurs/skript/node9.html
+ 
 
