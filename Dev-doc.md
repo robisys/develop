@@ -14,6 +14,8 @@ https://svij.org/blog/2015/05/10/git-fur-einsteiger-teil-4-github-edition/
 
 https://github.com/progit/progit2
 
+[Git einrichten ](https://git-scm.com/book/de/v1/Git-individuell-einrichten-Git-Konfiguration)
+
 https://git-scm.com/book/de/v1   http://git-scm.com/book/en/v2  
 
 https://github.com/progit/progit2
