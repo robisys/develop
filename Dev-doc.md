@@ -54,3 +54,8 @@ https://github.com/robisys/develop/archive/master.zip
 
  An unofficial Rust library browser. Contribute here.[RustKit] ( http://rustkit.io/)  
  
+* Duo Anmeldung
+ 
+ https://guide.duo.com/duo-unix
+
+
