@@ -1,6 +1,9 @@
 # Dev-doc
 
+# Travis
 https://docs.travis-ci.com
+
+# GitHub
 
 https://help.github.com/articles/fork-a-repo
 
@@ -29,6 +32,8 @@ https://github.com/twbs/bootstrap/releases/download/v3.2.0/bootstrap-3.2.0-dist.
 
 https://github.com/twbs/bootstrap
 
+# Develop
+
 * download: 
 
 https://github.com/robisys/develop/archive/master.zip
@@ -36,11 +41,16 @@ https://github.com/robisys/develop/archive/master.zip
 * Kommandozeile:
 
  git clone git://github.com/robisys/develop.git
+
+* vi
  
  https://de.wikibooks.org/wiki/Vi-Befehlsreferenz:_Bearbeitung
  
   http://www.fehcom.de/pub/viref.pdf 
  
   vi Editor http://www.inf.fu-berlin.de/lehre/WS98/brueckenkurs/skript/node9.html
- 
+
+* rustkit
+
  An unofficial Rust library browser. Contribute here.[RustKit] ( http://rustkit.io/)  
+ 
