@@ -60,7 +60,7 @@ https://github.com/robisys/develop/archive/master.zip
 
 Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren Online-Konten hinzu. Der Nachweis Ihrer Identität unter Verwendung eines zweiten Faktors (wie Ihres Telefons oder eines anderen Mobilgerätes) hindert jeden außer Ihnen daran, sich einzuloggen, selbst wenn er Ihr Passwort kennt.
 
-
+ [Anleitung zur Anmeldung](https://guide.duo.com/enrollment)
 
 
 
