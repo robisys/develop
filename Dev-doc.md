@@ -63,6 +63,8 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
  [Anleitung zur Anmeldung](https://guide.duo.com/enrollment)
  
  [wikipedia: Zwei-Faktor-Authentifizierung]  (https://de.wikipedia.org/wiki/Zwei-Faktor-Authentifizierung)
+ 
+ [FIDO Alliance] (https://fidoalliance.org/)
 
 
 
