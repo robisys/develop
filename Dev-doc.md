@@ -65,6 +65,10 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
  [wikipedia: Zwei-Faktor-Authentifizierung]  (https://de.wikipedia.org/wiki/Zwei-Faktor-Authentifizierung)
  
  [FIDO Alliance] (https://fidoalliance.org/)  [Open ID ](http://openid.net/)
+ 
+ [ doc](https://dev.twitter.com/oauth/overview/authorizing-requests)
+ 
+ [oaut client] (https://github.com/gifnksm/oauth-client-rs)
 
 
 
