@@ -34,7 +34,7 @@ https://github.com/twbs/bootstrap
 
 *GitBook* is a modern publishing toolchain. Making both writing and collaboration easy.
 [GitBook](https://www.gitbook.com/)
-   [GitBook](https://github.com/GitbookIO/gitbook#book-format)
+   --- [GitBook#](https://github.com/GitbookIO/gitbook#book-format)
 
 # Develop
 
