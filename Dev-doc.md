@@ -32,6 +32,9 @@ https://github.com/twbs/bootstrap/releases/download/v3.2.0/bootstrap-3.2.0-dist.
 
 https://github.com/twbs/bootstrap
 
+*GitBook* is a modern publishing toolchain. Making both writing and collaboration easy.
+[GitBook](https://www.gitbook.com/)
+
 # Develop
 
 * download: 
