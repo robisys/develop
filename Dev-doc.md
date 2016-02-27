@@ -72,6 +72,7 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
  
  [DuoUnix] (https://duo.com/docs/duounix-faq) 
  auf  GitHub [duosecurity/duo_unix] (https://github.com/duosecurity/duo_unix)
+ [chef-duo-unix](https://github.com/hungtruong/chef-duo-unix)
  
  [Duo-unix supermarket.chef.io/cookbooks/duo-unix](https://supermarket.chef.io/cookbooks/duo-unix)
  
