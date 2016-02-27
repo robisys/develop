@@ -70,6 +70,8 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
  
  [FIDO Alliance] (https://fidoalliance.org/)  [Open ID ](http://openid.net/)
  
+ [DuoUnix] (https://duo.com/docs/duounix-faq)
+ 
  Twitter uses .
  [ OAuth](https://dev.twitter.com/oauth/overview/authorizing-requests)
  to provide authorized access to its API.
