@@ -86,6 +86,8 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
  
  [oauth-2-0](http://www.queoflow.com/blog/2015/08/04/sichere-api-autorisierung-mittels-oauth-2-0-spring-und-xml-konfiguration/)
 
+[ OAuth-Authentifizierung- zendesk](https://support.zendesk.com/hc/de/articles/203663836-Verwenden-der-OAuth-Authentifizierung-f%C3%BCr-Ihre-Anwendung)
+
 * git-develop
 * 
   [Developer git ] (https://developer.github.com/guides/)
