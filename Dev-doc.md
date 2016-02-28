@@ -3,6 +3,10 @@
 # Travis
 https://docs.travis-ci.com
 
+This job is running on container-based infrastructure, which does not allow use of 'sudo', setuid and setguid executables.
+
+If you require sudo, add 'sudo: required' to your .travis.yml
+
 [ Travis infrastructur] (https://docs.travis-ci.com/user/workers/container-based-infrastructure/)
 
 # GitHub
