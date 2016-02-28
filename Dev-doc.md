@@ -3,6 +3,8 @@
 # Travis
 https://docs.travis-ci.com
 
+[ Travis infrastructur] (https://docs.travis-ci.com/user/workers/container-based-infrastructure/)
+
 # GitHub
 
 https://help.github.com/articles/fork-a-repo
