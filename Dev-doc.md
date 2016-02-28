@@ -83,6 +83,8 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
  [oaut client] (https://github.com/gifnksm/oauth-client-rs)
  
  [wichtige-aspekte-fuer-api-access-control](http://www.security-insider.de/5-wichtige-aspekte-fuer-api-access-control-v-33882-13274/)
+ 
+ [oauth-2-0](http://www.queoflow.com/blog/2015/08/04/sichere-api-autorisierung-mittels-oauth-2-0-spring-und-xml-konfiguration/)
 
 * git-develop
 * 
