@@ -61,6 +61,9 @@ https://github.com/robisys/develop/archive/master.zip
 
  An unofficial Rust library browser. Contribute here.[RustKit] ( http://rustkit.io/)  
  
+[so-funktioniert-oauth2] (https://entwickler.de/online/agile/so-funktioniert-oauth2-134316.html)
+ 
+ 
 * Duo Anmeldung
  
  https://guide.duo.com/    https://guide.duo.com/duo-unix
