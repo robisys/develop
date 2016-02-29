@@ -67,6 +67,7 @@ https://github.com/robisys/develop/archive/master.zip
 [Teil4](https://entwickler.de/online/php/so-funktioniert-oauth2-4-134335.html)
 [Teil5](https://entwickler.de/online/php/so-funktioniert-oauth2-5-136272.html)
  
+[google OAuth2](https://developers.google.com/identity/protocols/OAuth2)
  
 * Duo Anmeldung
  
