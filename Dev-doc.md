@@ -78,6 +78,8 @@ https://github.com/robisys/develop/archive/master.zip
 [ instagram authentication](https://www.instagram.com/developer/authentication/)
 
 [oracle oauth](http://docs.oracle.com/cloud/latest/marketingcs_gs/OMCAB/Developers/GettingStarted/Authentication/authenticate-using-oauth.htm)
+
+[Zendesk oauth_clients ](https://developer.zendesk.com/rest_api/docs/core/oauth_clients)
  
 * Duo Anmeldung
  
