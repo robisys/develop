@@ -80,6 +80,8 @@ https://github.com/robisys/develop/archive/master.zip
 [oracle oauth](http://docs.oracle.com/cloud/latest/marketingcs_gs/OMCAB/Developers/GettingStarted/Authentication/authenticate-using-oauth.htm)
 
 [Zendesk oauth_clients ](https://developer.zendesk.com/rest_api/docs/core/oauth_clients)
+
+[Verwenden-der-OAuth-Authentifizierung](https://support.zendesk.com/hc/de/articles/203663836-Verwenden-der-OAuth-Authentifizierung-f%C3%BCr-Ihre-Anwendung)
  
 * Duo Anmeldung
  
