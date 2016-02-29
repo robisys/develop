@@ -68,6 +68,8 @@ https://github.com/robisys/develop/archive/master.zip
 [Teil5](https://entwickler.de/online/php/so-funktioniert-oauth2-5-136272.html)
  
 [google OAuth2](https://developers.google.com/identity/protocols/OAuth2)
+
+[ create-OAuth2-client](https://github.com/googleads/googleads-dotnet-lib/wiki/How-to-create-OAuth2-client-id-and-secret)
  
 * Duo Anmeldung
  
