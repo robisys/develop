@@ -70,6 +70,8 @@ https://github.com/robisys/develop/archive/master.zip
 [google OAuth2](https://developers.google.com/identity/protocols/OAuth2)
 
 [ create-OAuth2-client](https://github.com/googleads/googleads-dotnet-lib/wiki/How-to-create-OAuth2-client-id-and-secret)
+
+[jenkow oauth2/authorization] (http://tutorials.jenkov.com/oauth2/authorization.html)
  
 * Duo Anmeldung
  
