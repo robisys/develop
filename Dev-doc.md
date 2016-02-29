@@ -76,6 +76,8 @@ https://github.com/robisys/develop/archive/master.zip
 [digitalocean introduction-to-oauth-2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
 [ instagram authentication](https://www.instagram.com/developer/authentication/)
+
+[oracle oauth](http://docs.oracle.com/cloud/latest/marketingcs_gs/OMCAB/Developers/GettingStarted/Authentication/authenticate-using-oauth.htm)
  
 * Duo Anmeldung
  
