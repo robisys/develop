@@ -72,6 +72,9 @@ https://github.com/robisys/develop/archive/master.zip
 [ create-OAuth2-client](https://github.com/googleads/googleads-dotnet-lib/wiki/How-to-create-OAuth2-client-id-and-secret)
 
 [jenkow oauth2/authorization] (http://tutorials.jenkov.com/oauth2/authorization.html)
+
+[digitalocean introduction-to-oauth-2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+
  
 * Duo Anmeldung
  
@@ -106,6 +109,8 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
  [oauth-2-0](http://www.queoflow.com/blog/2015/08/04/sichere-api-autorisierung-mittels-oauth-2-0-spring-und-xml-konfiguration/)
 
 [ OAuth-Authentifizierung- zendesk](https://support.zendesk.com/hc/de/articles/203663836-Verwenden-der-OAuth-Authentifizierung-f%C3%BCr-Ihre-Anwendung)
+
+
 
 http://dev.iron.io/mq/3/
 
