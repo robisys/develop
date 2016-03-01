@@ -61,6 +61,15 @@ https://github.com/robisys/develop/archive/master.zip
 
  An unofficial Rust library browser. Contribute here.[RustKit] ( http://rustkit.io/)  
 
+* git-develop
+
+  [Developer git ] (https://developer.github.com/guides/)
+
+[vlc] (https://github.com/Geal/vlc-rust-plugin-example)
+
+[serv](https://github.com/servo/servo)
+
+
 # oauth
 
 [so-funktioniert-oauth2] (https://entwickler.de/online/agile/so-funktioniert-oauth2-134316.html) 
@@ -123,10 +132,3 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
 
 http://dev.iron.io/mq/3/
 
-* git-develop
-* 
-  [Developer git ] (https://developer.github.com/guides/)
-
-[vlc] (https://github.com/Geal/vlc-rust-plugin-example)
-
-[serv](https://github.com/servo/servo)
