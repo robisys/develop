@@ -7,8 +7,7 @@
 [cargo] (https://github.com/rust-lang/cargo)
 * rust    
   rust -V    
-[rust](https://github.com/rust-lang/rust)
-
+[rust](https://github.com/rust-lang/rust)  
 [Contributing to the Rust compiler](https://gregchapple.com/contributing-to-the-rust-compiler/)
 
 * Cargo  
