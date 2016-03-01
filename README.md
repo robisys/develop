@@ -8,6 +8,9 @@
 * rust    
   rust -V    
 [rust](https://github.com/rust-lang/rust)
+
+[Contributing to the Rust compiler](https://gregchapple.com/contributing-to-the-rust-compiler/)
+
 * Cargo  
   The Rust community’s crate host   
 [Cargo crates.io](https://crates.io/)
