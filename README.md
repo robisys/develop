@@ -8,9 +8,8 @@
 * rust    
   rust -V    
 [rust](https://github.com/rust-lang/rust)  
-[Contributing to the Rust compiler](https://gregchapple.com/contributing-to-the-rust-compiler/)    
- Build stages  
- Building the Rust compiler from source involves four stages.
+ Build stages [Contributing to the Rust compiler](https://gregchapple.com/contributing-to-the-rust-compiler/)       
+  Building the Rust compiler from source involves four stages.
   * stage0    
 Because the source for the Rust compiler is itself written in Rust, it means that we can't just compile the source into the latest compiler. Instead, we need to download an older version of the compiler from the internet and use that to build a new version of the compiler from the source tree.
 stage0 downloads an older version of the compiler from the internet.
