@@ -120,6 +120,10 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
  
  [Duo-unix supermarket.chef.io/cookbooks/duo-unix](https://supermarket.chef.io/cookbooks/duo-unix)
  
+ [applications](https://duo.com/solutions/features/supported-applications)  
+[authentication-methods ]   (https://duo.com/solutions/features/authentication-methods)
+ [user-self-enrollment](https://duo.com/solutions/features/user-experience/user-self-enrollment)   
+ 
  Twitter uses .
  [ OAuth](https://dev.twitter.com/oauth/overview/authorizing-requests)
  to provide authorized access to its API.
