@@ -123,8 +123,8 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
  [applications](https://duo.com/solutions/features/supported-applications)  
 [authentication-methods ]   (https://duo.com/solutions/features/authentication-methods)
  [user-self-enrollment](https://duo.com/solutions/features/user-experience/user-self-enrollment)    
- [ signup](https://signup.duo.com/)
- [Login ](https://admin.duosecurity.com/login?next=%2F)   
+ [ signup](https://signup.duo.com/)   
+ mit Duo  [Login ](https://admin.duosecurity.com/login?next=%2F) zur Anmeldung   
  [doc](https://duo.com/docs)   
  [guide](https://guide.duo.com/)   
  [kb](https://kb.duo.com/s/)   
