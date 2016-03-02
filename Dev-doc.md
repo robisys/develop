@@ -1,6 +1,7 @@
 # Dev-doc
 * Documentation  
 [rustdoc](http://smallcultfollowing.com/rust-int-variations/isize-usize/rustdoc.html)  
+[devcos rust](http://devdocs.io/rust/)  
 
 # Travis
 https://docs.travis-ci.com
