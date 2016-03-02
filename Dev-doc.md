@@ -69,7 +69,9 @@ https://github.com/robisys/develop/archive/master.zip
 
 [serv](https://github.com/servo/servo)
 
-
+# semver  
+Automatic crate publishing done right 
+[Semantic] (https://github.com/semantic-rs)  
 [semver de](http://semver.org/lang/de/)
 
 # oauth
