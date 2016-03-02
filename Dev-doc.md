@@ -128,7 +128,7 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
  [ enroll] (https://blog.codecentric.de/en/2014/03/ssh-two-factor-authentication-duo-security/)   
 
  [doc](https://duo.com/docs)   
- [guide](https://guide.duo.com/)   
+ de: [guide ](https://guide.duo.com/)   
  [kb](https://kb.duo.com/s/)   
  
  Twitter uses .
