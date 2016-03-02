@@ -2,6 +2,7 @@
 * Documentation  
 [rustdoc](http://smallcultfollowing.com/rust-int-variations/isize-usize/rustdoc.html)  
 [devcos rust](http://devdocs.io/rust/)  
+[servo book] (http://doc.servo.org/book/documentation.html)   
 
 # Travis
 https://docs.travis-ci.com
