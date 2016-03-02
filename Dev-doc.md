@@ -124,7 +124,10 @@ Die Zwei-Faktor-Authentifizierung fügt eine zweite Sicherheitsstufe zu Ihren On
 [authentication-methods ]   (https://duo.com/solutions/features/authentication-methods)
  [user-self-enrollment](https://duo.com/solutions/features/user-experience/user-self-enrollment)    
  [ signup](https://signup.duo.com/)
- [Login ](https://admin.duosecurity.com/login?next=%2F)  
+ [Login ](https://admin.duosecurity.com/login?next=%2F)   
+ [doc](https://duo.com/docs)   
+ [guide](https://guide.duo.com/)   
+ [kb](https://kb.duo.com/s/)   
  
  Twitter uses .
  [ OAuth](https://dev.twitter.com/oauth/overview/authorizing-requests)
