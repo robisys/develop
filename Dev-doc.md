@@ -70,6 +70,8 @@ https://github.com/robisys/develop/archive/master.zip
 [serv](https://github.com/servo/servo)
 
 
+[semver de](http://semver.org/lang/de/)
+
 # oauth
 
 [so-funktioniert-oauth2] (https://entwickler.de/online/agile/so-funktioniert-oauth2-134316.html) 
