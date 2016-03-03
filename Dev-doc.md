@@ -9,7 +9,10 @@
   [generate-embedded-rust-bindings] (https://spin.atomicobject.com/2015/05/21/generate-embedded-rust-bindings/) 
      [github crabtw rust-bindgen](https://github.com/crabtw/rust-bindgen)
 
-[ self encryption ](https://github.com/dirvine/self_encryption)
+[ self encryption ](https://github.com/dirvine/self_encryption)    
+[killercup cargo-edit](https://github.com/killercup/cargo-edit)
+
+
 
 # Travis
 https://docs.travis-ci.com
