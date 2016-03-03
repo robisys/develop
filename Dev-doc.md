@@ -6,6 +6,8 @@
 [servo book] (http://doc.servo.org/book/documentation.html)   
   * libc  
    [easy-libc-in-rust ] (https://mobiarch.wordpress.com/2015/07/03/easy-libc-in-rust/)  
+  [generate-embedded-rust-bindings] (https://spin.atomicobject.com/2015/05/21/generate-embedded-rust-bindings/) 
+     [github crabtw rust-bindgen](https://github.com/crabtw/rust-bindgen)
 
 # Travis
 https://docs.travis-ci.com
