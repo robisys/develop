@@ -10,7 +10,9 @@
      [github crabtw rust-bindgen](https://github.com/crabtw/rust-bindgen)
 
 [ self encryption ](https://github.com/dirvine/self_encryption)    
-[killercup cargo-edit](https://github.com/killercup/cargo-edit)
+[killercup cargo-edit](https://github.com/killercup/cargo-edit)   
+[quick_error ](http://sunng.info/handlebars-rust/quick_error/macro.quick_error!.html)  
+[sunng](http://sunng.info/)   
 
 
 
