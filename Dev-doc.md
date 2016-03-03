@@ -1,5 +1,6 @@
 # Dev-doc
 * Documentation  
+  [rust-lang](https://github.com/rust-lang/libc)  
 [rustdoc](http://smallcultfollowing.com/rust-int-variations/isize-usize/rustdoc.html)  
 [devcos rust](http://devdocs.io/rust/)  
 [servo book] (http://doc.servo.org/book/documentation.html)   
