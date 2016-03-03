@@ -4,6 +4,8 @@
 [rustdoc](http://smallcultfollowing.com/rust-int-variations/isize-usize/rustdoc.html)  
 [devcos rust](http://devdocs.io/rust/)  
 [servo book] (http://doc.servo.org/book/documentation.html)   
+  * libc  
+   [easy-libc-in-rust ] (https://mobiarch.wordpress.com/2015/07/03/easy-libc-in-rust/)  
 
 # Travis
 https://docs.travis-ci.com
