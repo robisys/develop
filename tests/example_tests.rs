@@ -6,5 +6,9 @@
 
 mod examples {
     mod hello_world;
-   
+
 }
+
+
+#[test]
+fn test_works() {}
