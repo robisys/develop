@@ -1,3 +1,5 @@
+use hyper::client::{Client, Response};
+use hyper::method::Method;
 
 use std::process::{Child, Command, Stdio};
 use std::thread;
