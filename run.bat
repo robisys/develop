@@ -1,5 +1,8 @@
 @echo off
-echo Run develop
-cargo build
+
+echo " ---- Run cargo build "
+cargo build
+echo " -- cargo test --"
 cargo test
+
 pause
