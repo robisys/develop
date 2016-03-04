@@ -1,5 +1,5 @@
+//#[macro_use] extern crate nickel;
 
-
-fn main() {
-    println!("hello World");
-    }
+fn  main() {
+   println!("Hello World");
+}
