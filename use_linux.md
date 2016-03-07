@@ -1,0 +1,2 @@
+# Linux
+* opensuse leap42
