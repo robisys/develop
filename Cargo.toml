@@ -21,9 +21,9 @@ path =  "src/bin/wist/main.rs"
 [dependencies]
 #myprogs = {git = "https://github.com/robisys/myprogs.git"}
 
-cargo = "*"
-hyper = "*"
-nickel = "*"
+#cargo = "*"
+#hyper = "*"
+#nickel = "*"
 
 cargo-edit = "0.1.2"
 docopt = "0.6"
