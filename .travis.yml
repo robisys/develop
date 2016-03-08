@@ -10,6 +10,7 @@ env:
 script: 
      - cargo build
      - cargo test
+     - cargo doc
 
 after_success:
     "echo 'success' > target/test.txt "
