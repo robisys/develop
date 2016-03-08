@@ -8,9 +8,9 @@ env:
    - "FTP_USER=user"
    - "FTP_PASSWORD=password"
 script: 
-     - cargo build
-     - cargo test
-     - cargo doc
+     - cargo build -v
+#     - cargo test
+#     - cargo doc
 
 after_success:
     "echo 'success' > target/test.txt "
