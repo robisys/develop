@@ -6,7 +6,7 @@
 * cargo   [guide](http://doc.crates.io/guide.html)   
   cargo -V    
 [cargo] (https://github.com/rust-lang/cargo)
-* rust    [doku]   
+* rust    [doku]   (https://www.rust-lang.org/documentation.html)
   rust -V    
 [rust](https://github.com/rust-lang/rust)  
 
