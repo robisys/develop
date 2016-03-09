@@ -3,7 +3,7 @@ use std::collections::BTreeMap;
 use toml;
 
 use cargo_edit::Manifest;
-use list_error::ListError;
+use wist_error::ListError;
 
 pub type PkgName = String;
 pub type PkgVersion = String;
