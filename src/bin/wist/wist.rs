@@ -2,7 +2,7 @@ use pad::{Alignment, PadStr};
 use toml;
 
 use cargo_edit::Manifest;
-use list_error::ListError;
+use wist_error::ListError;
 
 /// List the dependencies for manifest section
 #[allow(deprecated)] // connect -> join
