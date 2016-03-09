@@ -19,12 +19,12 @@ use std::io::{self, Write};
 extern crate cargo_edit;
 use cargo_edit::Manifest;
 
-mod list;
-mod list_error;
+mod wist;
+mod wist_error;
 mod tree;
 
-use list::list_section;
-use list_error::ListError;
+use wist::list_section;
+use wist_error::ListError;
 use tree::parse_lock_file as list_tree;
 
 static USAGE: &'static str = r"
