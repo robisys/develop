@@ -10,7 +10,8 @@
   rust -V    
 [rust](https://github.com/rust-lang/rust)  
 
-[Dokumentation ](https://doc.rust-lang.org/book/documentation.html)
+[Dokumentation ](https://doc.rust-lang.org/book/documentation.html) 
+[ rustbyexample](http://rustbyexample.com/index.html)
 
  Build stages [Contributing to the Rust compiler](https://gregchapple.com/contributing-to-the-rust-compiler/)       
   Building the Rust compiler from source involves four stages.
