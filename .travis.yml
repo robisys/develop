@@ -9,7 +9,7 @@ env:
    - "FTP_PASSWORD=password"
 script: 
      - cargo build -v
-#     - cargo test
+     - cargo test
 #     - cargo doc
 
 after_success:
