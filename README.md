@@ -14,6 +14,12 @@
 [ rustbyexample](http://rustbyexample.com/index.html) 
 and the  Code  [github.com/rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example)
 
+* for windows
+[rust#building-on-windows] (https://github.com/rust-lang/rust#building-on-windows)  
+ [msys2 ] (http://msys2.github.io/)   
+
+
+#  Rust compiler   
  Build stages [Contributing to the Rust compiler](https://gregchapple.com/contributing-to-the-rust-compiler/)       
   Building the Rust compiler from source involves four stages.
   * stage0    
