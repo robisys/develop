@@ -8,7 +8,7 @@
 [cargo] (https://github.com/rust-lang/cargo)
 * rust    [doku]   (https://www.rust-lang.org/documentation.html)    
   rust -V    
-[rust](https://github.com/rust-lang/rust)  
+[rust](https://github.com/rust-lang/rust)  [ Contributing](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)  
 
 [Dokumentation ](https://doc.rust-lang.org/book/documentation.html) 
 [ rustbyexample](http://rustbyexample.com/index.html) 
