@@ -34,7 +34,7 @@ The final (and optional) build step is to re-build the compiler once more using 
   * stage3   
 The stage3 compiler should be bitwise identical to the stage2 compiler. We build it to ensure that we haven't introduced any new issues in the latest build.
 
-* Cargo  
+# Cargo  
   The Rust community’s crate host   
 [Cargo crates.io](https://crates.io/)
 
