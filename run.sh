@@ -1,0 +1,2 @@
+echo "run"
+cargo build
