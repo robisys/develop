@@ -12,6 +12,8 @@ extern crate toml;
 
 mod manifest;
 mod dependency;
+mod target;
 
 pub use dependency::Dependency;
 pub use manifest::Manifest;
+pub use target::Target;
