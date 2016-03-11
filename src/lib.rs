@@ -12,9 +12,9 @@ extern crate toml;
 
 mod manifest;
 mod dependency;
-mod target;
+//mod target;
 
 pub use dependency::Dependency;
 pub use manifest::Manifest;
-pub use target::Target;
+//pub use target::Target;
 
