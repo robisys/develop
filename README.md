@@ -22,6 +22,7 @@ and the  Code  [github.com/rust-lang/rust-by-example](https://github.com/rust-la
 * contribute libs  
   [libs](https://www.rust-lang.org/contribute-libs.html)   
 
+* [Clippy](https://github.com/Manishearth/rust-clippy)
 
 * for windows
 [rust#building-on-windows] (https://github.com/rust-lang/rust#building-on-windows)  
