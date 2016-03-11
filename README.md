@@ -19,6 +19,10 @@ and the  Code  [github.com/rust-lang/rust-by-example](https://github.com/rust-la
 [std](https://doc.rust-lang.org/std/)
 [core]    (https://doc.rust-lang.org/core/index.html)
 
+* contribute libs  
+  [libs](https://www.rust-lang.org/contribute-libs.html)   
+
+
 * for windows
 [rust#building-on-windows] (https://github.com/rust-lang/rust#building-on-windows)  
  [msys2 ] (http://msys2.github.io/)   
