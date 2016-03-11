@@ -14,7 +14,10 @@
 [ rustbyexample](http://rustbyexample.com/index.html) 
 and the  Code  [github.com/rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example)
 
-* [libc] (https://doc.rust-lang.org/libc/index.html) core   [core]    (https://doc.rust-lang.org/core/index.html)
+* Crate
+[libc] (https://doc.rust-lang.org/libc/index.html) 
+[std](https://doc.rust-lang.org/std/)
+[core]    (https://doc.rust-lang.org/core/index.html)
 
 * for windows
 [rust#building-on-windows] (https://github.com/rust-lang/rust#building-on-windows)  
