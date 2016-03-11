@@ -1,9 +1,11 @@
-// RP 20160131 Test
+// RP 20160131 Test  bin1.rs
 //
-//! # k(l)eine Rust Dokumentation
-//! 
-//! RobiSys
+/// # k(l)eine Rust Dokumentation
+/// 
+/// RobiSys
 
+
+pub fn rpdoc() {
 //!
 //! # Rust Grundlagen
 //!
@@ -76,6 +78,8 @@
 //!
 //!
 //!
+// rpdoc ende
+// }
 
 //    #![doc(html_favicon_url = "https://www.rust-lang.org/favicon.ico") ]
 //    #![crate_name = "stdd"]
@@ -87,7 +91,13 @@
        issue_tracker_base_url = "https://github.com/rust-lang/rust/issues/",
        test(no_crate_inject, attr(deny(warnings))),
        test(attr(allow(dead_code, deprecated, unused_variables, unused_mut))))]
-/*
+ 
+// rpdoc ende
+}
+
+
+ /*
+ 
 #[cfg(unix)]
 fn is_executable(metadata: &fs::Metadata) -> bool {
     use std::os::unix::prelude::*;
@@ -97,7 +107,7 @@ fn is_executable(metadata: &fs::Metadata) -> bool {
 fn is_executable(metadata: &fs::Metadata) -> bool {
     metadata.is_file()
 }
-*/
+  */
 
 // #[doc(no_inline)] 
 //pub use std;
@@ -186,8 +196,12 @@ impl Rodel {
     println!("I got ");
          
     }
-// 
-/*
+
+/// foote 
+///
+/// Function 
+///  running 
+///
 /// # Examples
 ///
 /// ```
@@ -195,24 +209,46 @@ impl Rodel {
 ///
 /// let five = Rc::new(5);
 /// ```
-# fn foo() {}
+ pub fn foote() {
+ //  Inhalt der Foote
+ //!  Doku
+ //! # kochbuch
+ //!
+ println!("Foote");
+ 
+ 
+ }
 ///
 //
-*/
 
-/*
-/// fn t ----- main Prog
-fn t(nam) {
-    /// Returns a Rodel with the name1 given them
-    ///
-    /// # Arguments
-    ///
-    /// * `nam` - A Teststring slice that holds the name of the person
-    ///
-      
-}
 
-*/
+
+
+/// fn tante
+///
+///  main Prog
+/// Returns a  the  given text -bla bla 
+///
+/// # Arguments
+///
+/// * `nam` - A Teststring slice that holds the name of the person
+///
+///  erklährung äüö ß ÜÖÄ
+/// # Examples
+///
+/// ```
+/// use std::rc::Rc;
+///
+/// let five = tante();
+/// ```
+
+pub fn tante() {
+// tante
+
+}      
+///
+
+
 
 include!("lib1.rs");
 
@@ -254,10 +290,12 @@ mod test {
     }
 }
 
+
+/*
 //  rp 20160130
 // rustc --test main.rs
 
-/*
+
 /// Constructs a new `Rc<T>`.
 ///
 /// # Examples
@@ -269,6 +307,12 @@ mod test {
 /// ```
 pub fn new(value: T) -> Rc<T> {
     // implementation goes here
+    //! Documentation innerhalb
+    //! # Examples
+    //!```
+    //!
+    //!```
+    //
 }
 
 
@@ -294,11 +338,11 @@ pub fn docbsp1() {
 //!    weiter
 //!
 //! *  ['DOC'](https://doc.rust-lang.org/) 'Doc'
-
+//
 }
 
 
-/*
+ /*
 
 ```
 // This is a testable code block
@@ -311,13 +355,14 @@ pub fn docbsp1() {
 ```ignore
 // This is not a testable code block
 ```
-
+   */
     // This is a testable code block (4-space indent)
 
-```sh
-# this is shell code and not tested
-```
-
+///```sh
+/// # this is shell code and not tested
+///```
+   // */
+/*
 
 #[doc = "
 Calculates the factorial of a number.
@@ -345,7 +390,7 @@ struct Whizbang;
 
 fn main() {
     // console.log("start");
-
+    //! main
 
     let john = Person::new("John");
 
@@ -360,5 +405,251 @@ fn main() {
     
 }
 
+
 //include!("webbrowser.rs");
+
+
+/// # Documenting modules
+///
+/// Rust has another kind of doc comment, 
+/// 
+///  //!. This comment doesn't document the next item, but the enclosing item.
+/// 
+///  In other words:
+///
+/// mod foo {
+/// 
+///    //! This is documentation for the `foo` module.
+/// 
+///    //!
+/// 
+///    //! # Examples
+///
+/// 
+///    // ...
+///    
+/// 
+/// ...
+/// }
+/// 
+/// This is where you'll see 
+/// 
+/// //! used most often: for module documentation. 
+/// 
+/// If you have a module in foo.rs, you'll often open its code and see this:
+/// 
+/// 
+/// //! A module for using `foo`s.
+/// 
+/// //!
+/// 
+/// //! The `foo` module contains a lot of useful functionality blah blah blah
+/// 
+/// //
+/// 
+/// 
+
+
+/// A lightweight logging facade.
+
+///
+/// A logging facade provides a single logging API that abstracts over the
+/// actual logging implementation. Libraries can use the logging API provided
+/// by this crate, and the consumer of those libraries can choose the logging
+/// framework that is most suitable for its use case.
+///
+/// If no logging implementation is selected, the facade falls back to a "noop"
+/// implementation that ignores all log messages. The overhead in this case
+/// is very small - just an integer load, comparison and jump.
+///
+/// A log request consists of a target, a level, and a body. A target is a
+/// string which defaults to the module path of the location of the log
+/// request, though that default may be overridden. Logger implementations
+/// typically use the target to filter requests based on some user
+/// configuration.
+///
+/// # Use
+///
+/// ## In libraries
+///
+/// Libraries should link only to the `log` crate, and use the provided
+/// macros to log whatever information will be useful to downstream consumers.
+///
+/// ### Examples
+///
+/// ```rust
+/// # #![allow(unstable)]
+/// #[macro_use]
+/// extern crate log;
+///
+/// # #[derive(Debug)] pub struct Yak(String);
+/// # impl Yak { fn shave(&self, _: u32) {} }
+/// # fn find_a_razor() -> Result<u32, u32> { Ok(1) }
+/// pub fn shave_the_yak(yak: &Yak) {
+///     info!(target: "yak_events", "Commencing yak shaving for {:?}", yak);
+///
+///     loop {
+///         match find_a_razor() {
+///             Ok(razor) => {
+///                 info!("Razor located: {}", razor);
+///                 yak.shave(razor);
+///                 break;
+///             }
+///             Err(err) => {
+///                 warn!("Unable to locate a razor: {}, retrying", err);
+///             }
+///         }
+///     }
+/// }
+/// # fn main() {}
+///
+/// ```
+///
+/// ## In executables
+///
+/// Executables should choose a logging framework and initialize it early in the
+/// runtime of the program. Logging frameworks will typically include a
+/// function to do this. Any log messages generated before the framework is
+/// initialized will be ignored.
+///
+/// The executable itself may use the `log` crate to log as well.
+///
+/// ### Warning
+///
+/// The logging system may only be initialized once.
+///
+/// ### Examples
+///
+/// ```rust,ignore
+/// #[macro_use]
+/// extern crate log;
+/// extern crate my_logger;
+///
+/// fn main() {
+///     my_logger::init();
+///
+///     info!("starting up");
+///
+///     // ...
+/// }
+/// ```
+///
+/// # Logger implementations
+///
+/// Loggers implement the `Log` trait. Here's a very basic example that simply
+/// logs all messages at the `Error`, `Warn` or `Info` levels to stdout:
+///
+/// ```rust
+/// extern crate log;
+///
+/// use log::{LogRecord, LogLevel, LogMetadata};
+///
+/// struct SimpleLogger;
+///
+/// impl log::Log for SimpleLogger {
+///     fn enabled(&self, metadata: &LogMetadata) -> bool {
+///         metadata.level() <= LogLevel::Info
+///     }
+///
+///     fn log(&self, record: &LogRecord) {
+///         if self.enabled(record.metadata()) {
+///             println!("{} - {}", record.level(), record.args());
+///         }
+///     }
+/// }
+///
+/// # fn main() {}
+/// ```
+///
+/// Loggers are installed by calling the `set_logger` function. It takes a
+/// closure which is provided a `MaxLogLevel` token and returns a `Log` trait
+/// object. The `MaxLogLevel` token controls the global maximum log level. The
+/// logging facade uses this as an optimization to improve performance of log
+/// messages at levels that are disabled. In the case of our example logger,
+/// we'll want to set the maximum log level to `Info`, since we ignore any
+/// `Debug` or `Trace` level log messages. A logging framework should provide a
+/// function that wraps a call to `set_logger`, handling initialization of the
+/// logger:
+///
+/// ```rust
+/// # extern crate log;
+/// # use log::{LogLevel, LogLevelFilter, SetLoggerError, LogMetadata};
+/// # struct SimpleLogger;
+/// # impl log::Log for SimpleLogger {
+/// #   fn enabled(&self, _: &LogMetadata) -> bool { false }
+/// #   fn log(&self, _: &log::LogRecord) {}
+/// # }
+/// # fn main() {}
+/// # #[cfg(feature = "use_std")]
+/// pub fn init() -> Result<(), SetLoggerError> {
+///     log::set_logger(|max_log_level| {
+///         max_log_level.set(LogLevelFilter::Info);
+///         Box::new(SimpleLogger)
+///     })
+/// }
+/// ```
+///
+/// # Use with `no_std`
+///
+/// To use the `log` crate without depending on `libstd`, you need to specify
+/// `default-features = false` when specifying the dependency in `Cargo.toml`.
+/// This makes no difference to libraries using `log` since the logging API
+/// remains the same. However executables will need to use the `set_logger_raw`
+/// function to initialize a logger and the `shutdown_logger_raw` function to
+/// shut down the global logger before exiting:
+///
+/// ```rust
+/// # extern crate log;
+/// # use log::{LogLevel, LogLevelFilter, SetLoggerError, ShutdownLoggerError,
+/// #           LogMetadata};
+/// # struct SimpleLogger;
+/// # impl log::Log for SimpleLogger {
+/// #   fn enabled(&self, _: &LogMetadata) -> bool { false }
+/// #   fn log(&self, _: &log::LogRecord) {}
+/// # }
+/// # impl SimpleLogger {
+/// #   fn flush(&self) {}
+/// # }
+/// # fn main() {}
+/// pub fn init() -> Result<(), SetLoggerError> {
+///     unsafe {
+///         log::set_logger_raw(|max_log_level| {
+///             static LOGGER: SimpleLogger = SimpleLogger;
+///             max_log_level.set(LogLevelFilter::Info);
+///             &SimpleLogger
+///         })
+///     }
+/// }
+/// pub fn shutdown() -> Result<(), ShutdownLoggerError> {
+///     log::shutdown_logger_raw().map(|logger| {
+///         let logger = unsafe { &*(logger as *const SimpleLogger) };
+///         logger.flush();
+///     })
+/// }
+/// 
+/// ```
+pub fn rp_logger() {}
+
+
+
+
+
+/*
+
+#![doc(html_logo_url = "https://www.rust-lang.org/logos/rust-logo-128x128-blk-v2.png",
+       html_favicon_url = "https://www.rust-lang.org/favicon.ico",
+       html_root_url = "https://doc.rust-lang.org/log/")]
+// 
+#![warn(missing_docs)]
+#![cfg_attr(feature = "nightly", feature(panic_handler))]
+
+#![cfg_attr(not(feature = "use_std"), no_std)]
+
+#[cfg(not(feature = "use_std"))]
+extern crate core as std;
+
+#[cfg(feature = "use_std")]
+extern crate libc;
+
+*/
 
