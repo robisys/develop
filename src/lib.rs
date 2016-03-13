@@ -1,3 +1,5 @@
+//! this file: lib.rs
+//!
 //! Show and Edit Cargo's Manifest Files
 
 #![cfg_attr(test, allow(dead_code))]
