@@ -1,3 +1,38 @@
+//  wist main.rs
+#![doc(html_logo_url = "https://www.rust-lang.org/logos/rust-logo-128x128-blk-v2.png",
+       html_favicon_url = "https://doc.rust-lang.org/favicon.ico",
+       html_root_url = "https://doc.rust-lang.org/nightly/",
+       html_playground_url = "https://play.rust-lang.org/",
+       issue_tracker_base_url = "https://github.com/rust-lang/rust/issues/",
+       test(no_crate_inject, attr(deny(warnings))),
+       test(attr(allow(dead_code, deprecated, unused_variables, unused_mut))))]
+// 
+//! this file: lib.rs
+//!
+//! Show and Edit Cargo's Manifest Files
+//!
+//!
+//! # Example 1
+//!
+//!```rust
+//!  fn mydoc () {};
+//!
+//!  mydoc();
+//!
+//!
+//!```
+//! # Example 2
+//!
+//!```
+//! fn main() {
+//!
+//!
+//!
+//!
+//!
+//!    }
+//!```
+//!
 //! `cargo add`
 
 #![deny(missing_docs, missing_debug_implementations, missing_copy_implementations, trivial_casts, trivial_numeric_casts, unsafe_code, unstable_features, unused_import_braces, unused_qualifications)]
