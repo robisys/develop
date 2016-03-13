@@ -18,6 +18,7 @@ pub fn pargs() {
 }
 
 fn main() {
+//! main
 pargs();
 is_executable();
 println!("Hallo World");
