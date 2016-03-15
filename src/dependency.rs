@@ -1,3 +1,39 @@
+//  dependency.rs
+#![doc(html_logo_url = "https://www.rust-lang.org/logos/rust-logo-128x128-blk-v2.png",
+       html_favicon_url = "https://doc.rust-lang.org/favicon.ico",
+       html_root_url = "https://doc.rust-lang.org/nightly/",
+       html_playground_url = "https://play.rust-lang.org/",
+       issue_tracker_base_url = "https://github.com/rust-lang/rust/issues/",
+       test(no_crate_inject, attr(deny(warnings))),
+       test(attr(allow(dead_code, deprecated, unused_variables, unused_mut))))]
+// 
+/// this file: dependency.rs
+///
+/// Show and Edit Cargo's Manifest Files
+///
+///
+/// # dependency.rs Example 1
+///
+///```rust
+/// fn mydoc () {};
+///
+/// mydoc();
+///
+///
+///```
+/// # Example 2
+///
+///```
+/// fn main() {
+///
+///
+///
+///
+///
+///   }
+///```
+///
+
 use std::collections::BTreeMap;
 use toml;
 
@@ -13,6 +49,7 @@ macro_rules! toml_table {
 
 #[derive(Debug, Hash, PartialEq, Eq, Clone)]
 enum DependencySource {
+///  DependencySource
     Version(String),
     Git(String),
     Path(String),
@@ -29,7 +66,7 @@ pub struct Dependency {
 
 impl Default for Dependency {
     fn default() -> Dependency {
-        Dependency {
+            Dependency {
             name: "".into(),
             optional: false,
             source: DependencySource::Version("0.1.0".into()),
