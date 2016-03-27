@@ -31,7 +31,9 @@ Nehmen wir folgende Situation. Nils bastelt gerade im Open Performance Monitor u
 - See more at: http://www.thewebhatesme.com/entwicklung/travis-ci/#sthash.OznQu4us.dpuf
 
 [travis-ci](http://www.thewebhatesme.com/entwicklung/travis-ci/)  
-[travis-ci-fuer-fortgschrittene/](http://www.thewebhatesme.com/entwicklung/travis-ci-fuer-fortgschrittene/)
+[travis-ci-fuer-fortgschrittene/](http://www.thewebhatesme.com/entwicklung/travis-ci-fuer-fortgschrittene/)  
+
+[codeception-module-visualception](https://github.com/DigitalProducts/codeception-module-visualception)
 
 This job is running on container-based infrastructure, which does not allow use of 'sudo', setuid and setguid executables.
 
