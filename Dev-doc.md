@@ -41,6 +41,9 @@ If you require sudo, add 'sudo: required' to your .travis.yml
 
 [ Travis infrastructur] (https://docs.travis-ci.com/user/workers/container-based-infrastructure/)
 
+[Command Line](https://github.com/travis-ci/travis.rb#readme)
+
+
 # GitHub
 
 https://help.github.com/articles/fork-a-repo
