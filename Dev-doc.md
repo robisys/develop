@@ -18,6 +18,9 @@
 
 # Travis
 https://docs.travis-ci.com
+ 
+[Travis for Beginners](https://docs.travis-ci.com/user/for-beginners)  
+
 
 This job is running on container-based infrastructure, which does not allow use of 'sudo', setuid and setguid executables.
 
