@@ -26,8 +26,9 @@ and the  Code  [github.com/rust-lang/rust-by-example](https://github.com/rust-la
 
 * for windows
 [rust#building-on-windows] (https://github.com/rust-lang/rust#building-on-windows)  
- [msys2 ] (http://msys2.github.io/)   
-
+ [msys2 ] (http://msys2.github.io/)     
+# Downloads  
+  [Downloads](https://www.rust-lang.org/downloads.html)
 
 #  Rust compiler   
  Build stages [Contributing to the Rust compiler](https://gregchapple.com/contributing-to-the-rust-compiler/)       
