@@ -57,6 +57,12 @@ https://github.com/twbs/bootstrap
 
 # Develop
 
+* OS
+"Tifflin" Experimental Kernel (and eventually Operating System)  
+This is an experiment in writing an OS Kernel in rust (http://rust-lang.org).  
+[Rust OS](https://github.com/thepowersgang/rust_os)  
+
+
 * download: 
 
 https://github.com/robisys/develop/archive/master.zip
