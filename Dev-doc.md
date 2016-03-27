@@ -20,6 +20,7 @@
 https://docs.travis-ci.com  
 [API](https://docs.travis-ci.com/api)  
 
+Travis CI for open source: For open source projects tested on travis-ci.org, use https://api.travis-ci.org.
  
 [Travis for Beginners](https://docs.travis-ci.com/user/for-beginners)  
 
