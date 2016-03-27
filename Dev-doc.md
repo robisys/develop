@@ -23,6 +23,8 @@ https://docs.travis-ci.com
 Travis CI for open source: For open source projects tested on travis-ci.org, use https://api.travis-ci.org.
  
 [Travis for Beginners](https://docs.travis-ci.com/user/for-beginners)    
+[Travis CI](http://www.thewebhatesme.com/entwicklung/travis-ci/)  
+
 Travis CI ist also eine Software (as a Service), die mir kontinuierlich hilft zu überprüfen, ob meine Anwendung noch läuft oder ob ich sie kaputt programmiert habe. Dabei ist das Tool sehr stark an GitHub gekoppelt.
 
 Nehmen wir folgende Situation. Nils bastelt gerade im Open Performance Monitor und checkt seinen Source-Code bei GitHub ein. Jetzt bekommt Travis CI einen Stupser von den Hub-Jungs und checkt meinen Quelltext aus. Nun kann man über eine Konfiguration, die mit im Projekt liegt dem Server sagen, was er alles mit dem Projekt anstellen soll. In unserem Fall wäre es das Bauen des Projektes und das anschließende Ausführen der Unit Tests. Wenn die Tests erfolgreich durchlaufen, macht er nichts und wenn nicht, dann bekomme ich eine Mail.
