@@ -29,8 +29,9 @@ and the  Code  [github.com/rust-lang/rust-by-example](https://github.com/rust-la
  [msys2 ] (http://msys2.github.io/)     
 # Downloads  
   [Downloads](https://www.rust-lang.org/downloads.html)  
+[ABI]  (https://en.wikipedia.org/wiki/Application_binary_interface)  
 Windows (GNU ABI ) (.msi) 	 Windows (MSVC ABI ) (.msi)    
-  There are two prominent ABIs in use on Windows: the native (MSVC) ABI used by Visual Studio, and the GNU ABI used by the GCC toolchain. Which version of Rust you need depends largely on what C/C++ libraries you want to interoperate with: for interop with software produced by Visual Studio use the MSVC build of Rust; for interop with GNU software built using the MinGW/MSYS2 toolchain use the GNU build.
+There are two prominent ABIs in use on Windows: the native (MSVC) ABI used by Visual Studio, and the GNU ABI used by the GCC toolchain. Which version of Rust you need depends largely on what C/C++ libraries you want to interoperate with: for interop with software produced by Visual Studio use the MSVC build of Rust; for interop with GNU software built using the MinGW/MSYS2 toolchain use the GNU build.
 
 MSVC builds of Rust additionally require an installation of Visual Studio 2013 (or later) so rustc can use its linker. Make sure to check the "C++ tools" option. No additional software installation is necessary for basic use of the GNU build.
 
