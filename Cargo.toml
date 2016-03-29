@@ -3,13 +3,13 @@ name = "myprogram"
 version = "0.1.1"
 authors = ["robisys"]
 
-[lib]
+[[lib]]
 name = "mylib"
 path = "src/lib.rs"
 test = true
 doc = true
 
-[lib]
+[[lib]]
 name = "rp_syslib"
 path = "src/rp_libsys.rs"
 test = true
