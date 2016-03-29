@@ -9,6 +9,11 @@ path = "src/lib.rs"
 test = true
 doc = true
 
+[lib]
+name = "rp_syslib"
+path = "src/rp_libsys.rs"
+test = true
+doc = true
 
 [[bin]]
 name = "myprog"
