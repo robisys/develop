@@ -1,5 +1,5 @@
  
-#![crate_name="sdl2_image"]
+#![crate_name="rp_sys"]
 #![crate_type = "lib"]
 
 extern crate sdl2;
@@ -47,12 +47,13 @@ mod ffi;
 
 pub fn quit() {
     //! Teardown the SDL2_Image subsystem
-    unsafe { ffi::IMG_Quit(); }
+  //  unsafe { ffi::IMG_Quit(); }
 }
 
 pub fn get_linked_version() -> Version {
     //! Returns the version of the dynamically linked SDL_image library
-    unsafe {
+   /* unsafe {
         Version::from_ll(*ffi::IMG_Linked_Version())
     }
+    */
 }
