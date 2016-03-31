@@ -2,7 +2,7 @@
   (under construction)   
 [![Build Status](https://secure.travis-ci.org/robisys/develop.svg?branch=master)](https://travis-ci.org/robisys/develop)
 
-[develop](https://github.com/robisys/develop)
+[Dev-doc](https://github.com/robisys/develop/blob/master/Dev-doc.md)
 
 # rust-lang  
 * cargo   [guide](http://doc.crates.io/guide.html)   
