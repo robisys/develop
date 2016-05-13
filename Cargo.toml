@@ -9,9 +9,9 @@ authors = ["robisys"]
 #test = true
 #doc = true
 
-[[bin]]
-name = "myprog"
-path =  "src/myprog.rs"
+#[[bin]]
+#name = "myprog"
+#path =  "src/myprog.rs"
 
 [[bin]]
 name = "bin1"
