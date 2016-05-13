@@ -7,7 +7,7 @@ env:
    - "FTP_USER=user"
    - "FTP_PASSWORD=password"
 script: 
-     - cargo build 
+#     - cargo build 
 #     - cargo test  -v
 #     - cargo doc
 
