@@ -13,9 +13,9 @@ authors = ["robisys"]
 #name = "myprog"
 #path =  "src/myprog.rs"
 
-[[bin]]
-name = "bin1"
-path =  "src/bin1.rs"
+#[[bin]]
+#name = "bin1"
+#path =  "src/bin1.rs"
 
 
 [[bin]]
