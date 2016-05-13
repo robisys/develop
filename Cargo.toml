@@ -3,11 +3,11 @@ name = "myprogram"
 version = "0.1.1"
 authors = ["robisys"]
 
-[lib]
-name = "mylib"
-path = "src/lib.rs"
-test = true
-doc = true
+#[lib]
+#name = "mylib"
+#path = "src/lib.rs"
+#test = true
+#doc = true
 
 [[bin]]
 name = "myprog"
