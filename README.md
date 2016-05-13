@@ -16,6 +16,8 @@
 [ rustbyexample](http://rustbyexample.com/index.html) 
 and the  Code  [github.com/rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example)
 
+[Book](https://doc.rust-lang.org/book/)
+
 * Crate
 [libc] (https://doc.rust-lang.org/libc/index.html) 
 [std](https://doc.rust-lang.org/std/)
