@@ -1,7 +1,6 @@
 language: rust 
 rust:
-     - 1.5.0
-     - stable
+ - stable
 sudo: false
 env:
   global:
@@ -9,7 +8,7 @@ env:
    - "FTP_PASSWORD=password"
 script: 
      - cargo build 
-     - cargo test  -v
+#     - cargo test  -v
 #     - cargo doc
 
 after_success:
