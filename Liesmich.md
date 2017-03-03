@@ -1,6 +1,6 @@
 # Dokumentation
 
-[GitHub](https://de.wikipedia.org/wiki/GitHub)  
+auf wikipedia [GitHub](https://de.wikipedia.org/wiki/GitHub)  
 [Gitbuch](http://gitbu.ch/) [Gitbuch html](http://gitbu.ch/pr01.html)
 [Gitbook](https://git-scm.com/book/de/v1)
 
