@@ -1,6 +1,7 @@
 # Dokumentation
 
 [GitHub](https://de.wikipedia.org/wiki/GitHub)  
+[Gitbuch](http://gitbu.ch/)
 [Gitbook](https://git-scm.com/book/de/v1)
 
 http://t3n.de/news/eigentlich-github-472886/#
