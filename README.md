@@ -8,6 +8,8 @@
 
 [travis-ci  gihub](https://github.com/travis-ci/travis-ci)
 
+http://blog.tgrrtt.com/exploring-the-travisci-configuration-file
+
 ## Liesmich
 [Liesmich](Liesmich.md)
 
