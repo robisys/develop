@@ -2,7 +2,7 @@ console.log("hallo");
 /*
 href="https://github.com/wireapp/don-bot
  neue zeile     
- 
+ weitere Zeile
 Hi, I'm GitHub-Bot. Here is how to set me up:
 
 1. Go to the repository that you want to connect to
