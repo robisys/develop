@@ -1,5 +1,7 @@
 console.log("hallo");
 /*
+href="https://github.com/wireapp/don-bot
+
 Hi, I'm GitHub-Bot. Here is how to set me up:
 
 1. Go to the repository that you want to connect to
@@ -9,6 +11,5 @@ Hi, I'm GitHub-Bot. Here is how to set me up:
 5. Disable SSL verification
 6. Set Secret: hl17ak
 
-Weitere info
 
 */
