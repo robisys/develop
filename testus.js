@@ -9,5 +9,6 @@ Hi, I'm GitHub-Bot. Here is how to set me up:
 5. Disable SSL verification
 6. Set Secret: hl17ak
 
+Weitere info
 
 */
