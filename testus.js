@@ -12,6 +12,6 @@ Hi, I'm GitHub-Bot. Here is how to set me up:
 4. Set Content-Type: application/json
 5. Disable SSL verification
 6. Set Secret: hl17ak
-Text einfügen
+Text   einfügen
 
 */
