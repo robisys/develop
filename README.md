@@ -12,6 +12,11 @@
 
 http://blog.tgrrtt.com/exploring-the-travisci-configuration-file
 
+#help
+[dwyl](https://dwyl.com/)  
+[learn-travis](https://github.com/dwyl/learn-travis)
+
+
 ## Liesmich
 [Liesmich](Liesmich.md)
    
