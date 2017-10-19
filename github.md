@@ -8,7 +8,9 @@ Wenn es um das Thema Versionierung geht, bekommt man von Laien oft zu hören, da
 dass die Vorteile in Relation zum zusätzlichen Aufwand überwiegen.
 
 Versionskontroll-Systeme helfen dabei, einen Überblick über deine Web-Projekt zu behalten. Das System behält für dich sämtliche Dateien im Auge und legt Kopien von aktualisierten Dokumenten an. So hast du die Möglichkeit, jederzeit zu sehen, welche Dateien wann geändert wurden, und kannst die unterschiedlichen Versionen der Dateien schnell vergleichen, zusammenführen und Änderungen rückgängig machen. Doch wie funktionieren Versionskontroll-Systeme?
-Eins der wohl bekanntesten Systeme ist GIT mit der dazugehörigen Online-Plattform GitHub, das seinen Usern unter anderem ein auf GIT basierendes Versionskontroll-System anbietet. Auf GitHub werden hierfür Projekte in so genannten Repositorys organisiert. Diese „Archive“ beinhalten die jeweiligen Bestandteile wie PHP-, JavaScript-, HTML- und CSS-Dateien.
+
+Eins der wohl bekanntesten Systeme ist GIT mit der dazugehörigen Online-Plattform [GitHub](http://t3n.de/tag/github),
+das seinen Usern unter anderem ein auf GIT basierendes Versionskontroll-System anbietet. Auf GitHub werden hierfür Projekte in so genannten Repositorys organisiert. Diese „Archive“ beinhalten die jeweiligen Bestandteile wie PHP-, JavaScript-, HTML- und CSS-Dateien.
 
 Am Projekt beteiligte Benutzer können eine Kopie des Repositorys auf ihrem Computer anlegen und daran arbeiten. Durchgeführte Änderungen schicken sie an GitHub zurück, das dann den Rest der Arbeit wie das Anlegen von Sicherungskopien der alten Dateien übernimmt.
 Das Versionskontroll-System GIT nutzen
