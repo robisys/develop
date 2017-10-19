@@ -1,5 +1,6 @@
-http://t3n.de/news/versionskontrolle-git-github-598054/
+[versionskontrolle](http://t3n.de/news/versionskontrolle-git-github-598054/)
 
+Die Arbeit an einem Web-Projekt im Team kann ziemlich kompliziert sein. Wir verraten, wie die Zusammenarbeit durch GIT vereinfacht wird und warum es sich durchaus lohnt, den Aufwand für eine Versionskontrolle zu betreiben. 
 
 Mit Hilfe von Versionskontroll-Systemen kannst du dir und deinem Team die Arbeit an Web-Projekten deutlich vereinfachen. Aber auch für Solo-Projekte kann eine gute Versionierung sehr nützlich sein.
 
