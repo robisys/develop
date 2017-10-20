@@ -27,7 +27,7 @@ dwyl is a rapidly expanding community; here are a few of the familiar faces cont
 
 ## Liesmich
 
-[Liesmich](https://github.com/robisys/develop/Liesmich.md)
+[Liesmich]https://github.com/robisys/develop/edit/master/Liesmich.md)
    
 # rust-lang  
 * cargo   [guide](http://doc.crates.io/guide.html)   
