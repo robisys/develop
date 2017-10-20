@@ -13,6 +13,7 @@
 http://blog.tgrrtt.com/exploring-the-travisci-configuration-file
 
 # dwyl 
+dwyl is a rapidly expanding community; here are a few of the familiar faces contributing to our projects:
 
 [dwyl](https://dwyl.com/) 
 
