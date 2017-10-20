@@ -24,7 +24,7 @@ http://blog.tgrrtt.com/exploring-the-travisci-configuration-file
 
 
 ## Liesmich
-[Liesmich](Liesmich.md)
+[Liesmich](https://github.com/robisys/develop/Liesmich.md)
    
 # rust-lang  
 * cargo   [guide](http://doc.crates.io/guide.html)   
