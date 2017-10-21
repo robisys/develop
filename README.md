@@ -59,6 +59,7 @@ and the  Code  [github.com/rust-lang/rust-by-example](https://github.com/rust-la
  [msys2 ] (http://msys2.github.io/)  
 
 # Downloads  
+[react-devtools](https://github.com/facebook/react-devtools)
 
 [Downloads](https://www.rust-lang.org/downloads.html)  
 
