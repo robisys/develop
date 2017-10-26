@@ -20,6 +20,10 @@ https://rogerdudler.github.io/git-guide/index.de.html
 
 [electron](https://github.com/electron)
 
+[HTTPS TLS](https://wiki.selfhtml.org/wiki/Grundlagen/HTTPS_und_TLS)
+
+[ITGrundschutzKataloge/](https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzKataloge/Inhalt/_content/m/m05/m05066.html)
+
 und weiter Projekte
 [heise artikel ](https://www.heise.de/developer/artikel/Desktopanwendungen-mit-JavaScript-entwickeln-3609943.html?seite=3)
 
