@@ -28,6 +28,8 @@ dwyl is a rapidly expanding community;
 
 ## haskel cabal
 
+[haskel](https://www.haskell.org/cabal/)
+
 [haskel cabal](https://github.com/haskell/cabal)
 
 ## Liesmich
