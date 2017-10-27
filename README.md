@@ -26,6 +26,9 @@ dwyl is a rapidly expanding community;
 
 [learn-tdd](https://github.com/dwyl/learn-tdd)
 
+## haskel cabal
+
+[haskel cabal](https://github.com/haskell/cabal)
 
 ## Liesmich
 
