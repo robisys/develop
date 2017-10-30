@@ -1,4 +1,5 @@
 # Javascript
+[Javascript](http://wiki.selfhtml.org/wiki/JavaScript)
 ## promise
 
 [promise](http://wiki.selfhtml.org/wiki/JavaScript/Promise)
