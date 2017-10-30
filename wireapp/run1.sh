@@ -1,7 +1,8 @@
 #!/bin/bash
 
 EMAIL="wire1@robisys.de";
-PASSWORD="K79#Abd46";
+PASSWORD="password";
+## use real password
 
 #CONVERSATION_ID="594f0908-b9b7-40f9-a06a-45612145e64e";
 
