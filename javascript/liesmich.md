@@ -32,15 +32,17 @@ Genauere Informationen zu then und catch, unter anderem zu ihren Parametern und 
 
 Eine Besonderheit von then und catch ist, dass sie ihrerseits ein Promise zurückgeben. Der Übersicht halber soll das zuvor erzeugte Promise als das ursprüngliche Promise bezeichnet werden, und dieses neue Promise als das "äußere Promise" (denn gleich folgt noch ein inneres). Das äußere Promise ist solange im Status pending, bis die Callbacks von then bzw. catch ausgeführt wurden. Wie es weitergeht, hängt vom Rückgabewert des Callbacks ab:
 
-    Ist es ein Wert (auch undefined), der kein Promise ist, wird das äußere Promise auf fulfilled gesetzt und der zurückgegebene Wert wird zum Erfüllungswert. Wichtig: Das gilt auch für den Zurückweisungscallback. Das ursprüngliche Promise kann rejected sein, aber wenn der Zurückweisungscallback beispielsweise 'true' zurückgibt, gilt das äußere Promise als fulfilled.
-    Wirft der Callback eine Exception, gilt das äußere Promise als rejected. Das geworfene Exceptionobjekt wird als Zurückweisungsgrund gesetzt.
-    Wird vom Callback ein Promise zurückgegeben (das innere Promise), so wird der Status des äußeren Promise mit dem Status des inneren Promise gekoppelt. Sobald das innere Promise von pending auf einen settled-Zustand wechselt, wechselt das äußere Promise mit.
+Ist es ein Wert (auch undefined), der kein Promise ist, wird das äußere Promise auf fulfilled gesetzt und der zurückgegebene Wert wird zum Erfüllungswert. Wichtig: Das gilt auch für den Zurückweisungscallback. Das ursprüngliche Promise kann rejected sein, aber wenn der Zurückweisungscallback beispielsweise 'true' zurückgibt, gilt das äußere Promise als fulfilled.
+
+Wirft der Callback eine Exception, gilt das äußere Promise als rejected. Das geworfene Exceptionobjekt wird als Zurückweisungsgrund gesetzt.
+
+Wird vom Callback ein Promise zurückgegeben (das innere Promise), so wird der Status des äußeren Promise mit dem Status des inneren Promise gekoppelt. Sobald das innere Promise von pending auf einen settled-Zustand wechselt, wechselt das äußere Promise mit.
 
 Das bedeutet, dass man Promise-Ketten bilden kann. Angenommen, die Funktionen doSomethingWithPromise und promiseMeSomethingMore lösen beide asynchrone Aktivitäten aus und liefern ein Promise dazu zurück. Dann kann man so erreichen, dass beide Aktivitäten nacheinander ablaufen und danach eine Abschlussfunktion gerufen wird:
 
-  doSomethingWithPromise()
-  .then(promiseMeSomethingMore)
-  .then(completeTheTask)
+   doSomethingWithPromise()
+   .then(promiseMeSomethingMore)
+   .then(completeTheTask)
 
 Wichtig bei then ist noch, dass eine Exception im Erfüllungscallback nicht den Zurückweisungscallback des gleichen then-Aufrufs auslöst. Will man das erreichen, muss man den Umstand nutzen, dass eine Exception in Erfüllungscallback das von then zurückgegebene Promise auf rejected setzt. D.h. mit diesem Konstrukt
 
