@@ -40,15 +40,15 @@ Wird vom Callback ein Promise zurückgegeben (das innere Promise), so wird der S
 
 Das bedeutet, dass man Promise-Ketten bilden kann. Angenommen, die Funktionen doSomethingWithPromise und promiseMeSomethingMore lösen beide asynchrone Aktivitäten aus und liefern ein Promise dazu zurück. Dann kann man so erreichen, dass beide Aktivitäten nacheinander ablaufen und danach eine Abschlussfunktion gerufen wird:
 
-   doSomethingWithPromise()
-   .then(promiseMeSomethingMore)
-   .then(completeTheTask)
+     doSomethingWithPromise()
+    .then(promiseMeSomethingMore) 
+     .then(completeTheTask)
 
 Wichtig bei then ist noch, dass eine Exception im Erfüllungscallback nicht den Zurückweisungscallback des gleichen then-Aufrufs auslöst. Will man das erreichen, muss man den Umstand nutzen, dass eine Exception in Erfüllungscallback das von then zurückgegebene Promise auf rejected setzt. D.h. mit diesem Konstrukt
 
-  doSomethingWithPromise()
-  .then(receiveResult)
-  .catch(handleFailure)
+    doSomethingWithPromise()
+    .then(receiveResult)
+    .catch(handleFailure)
 
 kann man in der handleFailure-Funktion sowohl ein zurückgewiesenes Promise als auch eine Exception in receiveResult behandeln. 
 
