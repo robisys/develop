@@ -52,3 +52,6 @@ Wichtig bei then ist noch, dass eine Exception im Erfüllungscallback nicht den 
 
 kann man in der handleFailure-Funktion sowohl ein zurückgewiesenes Promise als auch eine Exception in receiveResult behandeln. 
 
+
+[promises](http://www.peterkroener.de/ecmascript-6-promises/)
+[Future_(Programmierung)](https://de.wikipedia.org/wiki/Future_(Programmierung))
