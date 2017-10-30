@@ -1,0 +1,20 @@
+{
+  "author": "Wire",
+  "bugs": {
+    "url": "https://github.com/wireapp/wire-webapp-core-client/issues"
+  },
+  "dependencies": {
+    "optimist": "~0.6.1",
+    "wire-webapp-core": "~0.2.0"
+  },
+  "description": "Command-Line Client for Wire's secure messaging platform.",
+  "homepage": "https://github.com/wireapp/wire-webapp-core-client#readme",
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "name": "wire-webapp-core-client",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wireapp/wire-webapp-core-client.git"
+  },
+  "version": "0.1.0"
+}
