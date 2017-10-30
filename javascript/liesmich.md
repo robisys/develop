@@ -54,4 +54,5 @@ kann man in der handleFailure-Funktion sowohl ein zurückgewiesenes Promise als 
 
 
 [promises](http://www.peterkroener.de/ecmascript-6-promises/)
+
 [Future_(Programmierung)](https://de.wikipedia.org/wiki/Future_(Programmierung))
