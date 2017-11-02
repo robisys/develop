@@ -3,6 +3,10 @@
 
 [mozilla javascript](https://developer.mozilla.org/de/docs/Web/JavaScript)
 
+## typescript
+
+[einfuehrung-in-typescript-setup-und-typsystem](https://blog.codecentric.de/2016/03/einfuehrung-in-typescript-setup-und-typsystem/)
+
 ## promise
 
 [promise](http://wiki.selfhtml.org/wiki/JavaScript/Promise)
