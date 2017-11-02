@@ -4,6 +4,7 @@
 [mozilla javascript](https://developer.mozilla.org/de/docs/Web/JavaScript)
 
 ## typescript
+TypeScript selbst ist ein Superset von JavaScript und bietet primär Funktionalität an, die entweder in einer zukünftigen Version von ECMAScript Standard wird (z.B. Arrow-Funktionen) oder aber syntaktischen Zucker für bestehende Funktionalitäten bietet. Im Projektalltag erleichtert das statische Typsystem die Arbeit an komplexen Anwendungen enorm.
 
 [einfuehrung-in-typescript-setup-und-typsystem](https://blog.codecentric.de/2016/03/einfuehrung-in-typescript-setup-und-typsystem/)
 
