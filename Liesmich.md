@@ -32,6 +32,11 @@ und weiter Projekte
 
 [minitask](https://github.com/mixu/minitask)
 
+## nodejs integragtion mit php
+
+[php nodejs](https://entwickler.de/webandphp/integrating-node-js-with-php-125830.html)
+
+
 ## yml
 [wiki](https://de.wikipedia.org/wiki/YAML)
 
