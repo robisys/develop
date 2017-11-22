@@ -16,6 +16,8 @@ http://blog.tgrrtt.com/exploring-the-travisci-configuration-file
 
 
 [linux-pc](linux-pc)
+# freifunk
+[github freifunk](https://github.com/robisys/freifunk)
 
 # javascript
 [javascript](https://github.com/robisys/develop/tree/master/javascript)
