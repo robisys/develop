@@ -33,6 +33,11 @@ und weiter Projekte
 
 [minitask](https://github.com/mixu/minitask)
 
+## Ubuntu
+
+[GRUB2](https://wiki.ubuntuusers.de/GRUB_2)
+
+
 ## nodejs integragtion mit php
 
 [php nodejs](https://entwickler.de/webandphp/integrating-node-js-with-php-125830.html)
