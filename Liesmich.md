@@ -34,6 +34,12 @@ und weiter Projekte
 
 [minitask](https://github.com/mixu/minitask)
 
+## OPenWrt
+### Luci
+
+[luci](https://github.com/seamustuohy/luci_tutorials/blob/master/01-introduction.md)
+
+
 ## Ubuntu
 
 [GRUB2](https://wiki.ubuntuusers.de/GRUB_2)
