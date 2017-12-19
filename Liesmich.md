@@ -34,7 +34,10 @@ und weiter Projekte
 
 [minitask](https://github.com/mixu/minitask)
 
-## OPenWrt
+## OPENWRT
+
+[openwrt luci](https://github.com/openwrt/luci)
+
 ### Luci
 
 [luci](https://github.com/seamustuohy/luci_tutorials/blob/master/01-introduction.md)
